@@ -1,0 +1,11 @@
+To: admin@email.com
+Subject: Contact form
+X-PHP-Originating-Script: 0:Sendmail.php
+From: Aleksey <dachadybenci2@gmail.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+MIME-Version: 1.0
+
+<h2>Contact message from MyStore</h2>=0D=0A<p>=0D=0A    From: Aleksey=0D=
+=0A</p>=0D=0A<p>=0D=0A    Text: test test message=0D=0A</p>
